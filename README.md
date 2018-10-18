@@ -1,2 +1,2 @@
-# Tweepy
-Tweepy for News Segment
+# newsmood
+sentiment VADER analysis of Twitter feed data analysis
